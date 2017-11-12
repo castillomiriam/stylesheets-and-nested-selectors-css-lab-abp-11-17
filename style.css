@@ -11,21 +11,21 @@ header {
   border-bottom: 1px solid #cccccc;
 }
 
-header nav{
+header nav {
   float: right;
 }
 
-nav ul{
+nav ul {
   padding: 0px;
   margin: 40px 0 0 0;
 }
 
-nav ul li{
+nav ul li {
   display: inline;
   margin: 0 10px 0 0;
 }
 
-nav a{
+nav a {
   text-decoration: none
   color: #007bff
   font-size: 18px;
